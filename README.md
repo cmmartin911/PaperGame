@@ -1,1 +1,1 @@
-# PaperGame
+# CP-2
